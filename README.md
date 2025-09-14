@@ -1,23 +1,22 @@
-
- 📊 Somesh's Data Science Projects
+# 📊 Somesh's Data Science Projects
 
 This repository contains three major data science projects completed during my **CodSoft Data Science Internship (Batch B47)**.
 Each project focuses on different aspects of the data science pipeline — from data preprocessing to visualization and machine learning modeling.
 
 ---
 
- 📌 1. Data Preprocessing
+## 📌 1. Data Preprocessing
 
-File: `Task1_DataPreprocessing.ipynb`
-Preview: Cleaning and preparing raw data for analysis.
+**File:** `Task1_DataPreprocessing.ipynb`
+**Preview:** Cleaning and preparing raw data for analysis.
 
- 🔹 Features
+### 🔹 Features
 
 * Handled missing values, duplicates, and outliers
 * Encoded categorical variables
 * Applied normalization and scaling
 
- 🔹 Learning Outcome
+### 🔹 Learning Outcome
 
 * Understood the importance of data quality
 * Practiced feature engineering techniques
@@ -25,18 +24,18 @@ Preview: Cleaning and preparing raw data for analysis.
 
 ---
 
- 📌 2. Exploratory Data Analysis (EDA)
+## 📌 2. Exploratory Data Analysis (EDA)
 
-File: `Task2_EDA.ipynb`
-Preview: Analyzing datasets to uncover insights and patterns.
+**File:** `Task2_EDA.ipynb`
+**Preview:** Analyzing datasets to uncover insights and patterns.
 
- 🔹 Features
+### 🔹 Features
 
 * Visualized distributions, correlations, and trends
-* Used Matplotlib and Seaborn for advanced plotting
+* Used **Matplotlib** and **Seaborn** for advanced plotting
 * Created heatmaps and pairplots for deeper understanding
 
- 🔹 Learning Outcome
+### 🔹 Learning Outcome
 
 * Gained skills in data visualization
 * Learned how to interpret patterns and correlations
@@ -46,16 +45,16 @@ Preview: Analyzing datasets to uncover insights and patterns.
 
 ## 📌 3. Machine Learning Model
 
-File: `Task3_ML_Model.ipynb`
-Preview: Building and evaluating machine learning models.
+**File:** `Task3_ML_Model.ipynb`
+**Preview:** Building and evaluating machine learning models.
 
- 🔹 Features
+### 🔹 Features
 
 * Implemented regression/classification algorithms
-* Evaluated models using accuracy, precision, recall, F1-score, RMSE
+* Evaluated models using **accuracy, precision, recall, F1-score, RMSE**
 * Performed hyperparameter tuning for better performance
 
- 🔹 Learning Outcome
+### 🔹 Learning Outcome
 
 * Hands-on experience in ML workflows
 * Understood model evaluation metrics
@@ -63,7 +62,7 @@ Preview: Building and evaluating machine learning models.
 
 ---
 
- 🚀 How to Run
+## 🚀 How to Run
 
 1. Clone or download the repository
 2. Open `.ipynb` files in **Jupyter Notebook** or **Google Colab**
@@ -76,14 +75,13 @@ Preview: Building and evaluating machine learning models.
 
 ---
 
- 📬 Contact
+## 📬 Contact
 
-👤 Somesh Naikwadi
+👤 **Somesh Naikwadi**
 
-✉️ Email: [naikwadisomesh10@gmail.com](mailto:naikwadisomesh10@gmail.com)
+✉️ Email: **[naikwadisomesh10@gmail.com](mailto:naikwadisomesh10@gmail.com)**
 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
 💻 GitHub: [Somesh2006](https://github.com/Somesh2006)
 
 ✨ This repository represents my journey in **Data Science** and showcases my ability to clean, analyze, visualize, and model real-world data.
-
 
